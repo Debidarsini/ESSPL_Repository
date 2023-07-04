@@ -1,0 +1,16 @@
+  1  git init
+    2  git clone https://github.com/Debidarsini/ESSPL_Repository.git~
+    3  git clone https://github.com/Debidarsini/ESSPL_Repository.git
+    4  cd ESSPL_Repository
+    5  git status
+    6  git add index.html.txt
+    7  git status
+    8  git commit -m "first commit"
+    9  git branch -M main
+   10  git remote add origin https://github.com/Debidarsini/ESSPL_Repository.git
+   11  git push -u origin main
+   12  git push -u origin main
+   13  git push -u origin main
+   14  git clone https://github.com/Debidarsini/ESSPL_Repository.git
+   15  git history
+   16  history
